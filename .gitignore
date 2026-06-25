@@ -1,4 +1,12 @@
+# Executável gerado pelo GCC
 lanchonete
 lanchonete.exe
+
+# Arquivos de objeto
 *.o
+
+# Arquivos de debug
 *.dSYM/
+
+# VS Code
+.vscode/
