@@ -1,10 +1,10 @@
-#  Sistema de Lanchonete — Estruturas de Dados em C
+# 🍔 Sistema de Lanchonete — Estruturas de Dados em C
 
 Projeto acadêmico desenvolvido para a disciplina de **Estrutura de Dados**, implementando um sistema de gerenciamento de lanchonete que aplica na prática seis estruturas de dados fundamentais em linguagem C.
 
 ---
 
-## Estruturas de Dados Implementadas
+## 📚 Estruturas de Dados Implementadas
 
 | Estrutura | Aplicação no Sistema |
 |---|---|
@@ -17,7 +17,7 @@ Projeto acadêmico desenvolvido para a disciplina de **Estrutura de Dados**, imp
 
 ---
 
-##  Como compilar e executar
+## ⚙️ Como compilar e executar
 
 Você precisa de um compilador C instalado (GCC recomendado).
 
@@ -48,7 +48,7 @@ lanchonete.exe
 
 ---
 
-##  Estrutura do projeto
+## 📁 Estrutura do projeto
 
 ```
 .
@@ -58,7 +58,7 @@ lanchonete.exe
 
 ---
 
-##  Conceitos aplicados
+## 🧠 Conceitos aplicados
 
 - Alocação dinâmica de memória com `malloc` e `free`
 - Ponteiros e aritmética de ponteiros
@@ -68,7 +68,7 @@ lanchonete.exe
 
 ---
 
-##  Observações
+## 📝 Observações
 
 - Os dados iniciais (produtos, atendentes e clientes) são carregados automaticamente ao iniciar o sistema
 - Toda a entrada/saída é feita via terminal
