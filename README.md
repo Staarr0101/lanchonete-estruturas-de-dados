@@ -2,6 +2,8 @@
 
 Projeto acadêmico desenvolvido para a disciplina de **Estrutura de Dados**, implementando um sistema de gerenciamento de lanchonete que aplica na prática seis estruturas de dados fundamentais em linguagem C.
 
+![Preview do sistema](preview.png.webp)
+
 ---
 
 ## 📚 Estruturas de Dados Implementadas
